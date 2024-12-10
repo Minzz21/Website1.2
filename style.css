@@ -98,7 +98,7 @@ box-shadow: 2px -2px 56px 12px rgba(255,255,255,1);
 @media only screen and (max-width: 500px) {
     .row {
         width: 100%;
-        height: 30rem;
+        height: 34rem;
         margin-left: 2px;
     }
     .row h6 {
